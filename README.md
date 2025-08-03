@@ -1,2 +1,4 @@
-# estudo_python_date_time_agenda
-Estudo datetime do Phyton
+
+# Projeto de estudo de Python
+
+Este é um Projeto de estudo Python com foco em datetime e uso de Git e GitHub.
